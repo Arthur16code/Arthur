@@ -8,5 +8,5 @@ p{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 body{
-    background: linear-gradient(to right rgb(38, 38, 255), rgb(14, 152, 191));
+    background-image: linear-gradient(to right, rgb(37, 37, 255), rgb(0, 127, 254));
 }
